@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+             <!--Add zalo-->
+			 <key>CFBundleURLTypes</key>
+    	<array>
+    		<dict>
+    			<key>CFBundleTypeRole</key>
+    			<string>Editor</string>
+    			<key>CFBundleURLName</key>
+    			<string>com.flutterzalopay.flutterZaloSdkExample</string>
+    			<key>CFBundleURLSchemes</key>
+    			<array>
+    				<string>demozpdk</string>
+    			</array>
+    		</dict>
+    		<dict>
+    			<key>CFBundleTypeRole</key>
+    			<string>Editor</string>
+    			<key>CFBundleURLName</key>
+    			<string>com.flutterzalopay.flutterZaloSdkExample</string>
+    			<key>CFBundleURLSchemes</key>
+    			<array>
+    				<string>zp-redirect-2553</string>
+    			</array>
+    		</dict>
+    	</array>
+<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>zalo</string>
+		<string>zalopay</string>
+		<string>zalopay.api.v2</string>
+	</array>
+             <!--Add zalo-->
+
+	<!-- Google Sign-in Section -->
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.266411109610-9cole0l83nnr0v1f3l2j527ljtr6056m</string>
+			</array>
+		</dict>
+	</array>
+	<!--Location-->
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs access to location when open.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This app needs access to location when in the background.</string>
+	<key>io.flutter.embedded_views_preview</key>
+	<true>
+	<!--Location-->
+	<!--Truy cap internet-->
+	<key>NSAppTransportSecurity</key>
+	<dict>
+	<key>NSAllowsArbitraryLoads</key>
+	<true/>
+	</dict>
+	<!--Truy cap internet-->
+	<!-- End of the Google Sign-in Section -->
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Mr Soái</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>fe_flutter_ui</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+</dict>
+</plist>

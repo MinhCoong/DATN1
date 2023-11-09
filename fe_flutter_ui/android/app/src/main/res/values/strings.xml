@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mr Soai App</string>
+    <string name="facebook_app_id">194812863442476</string>
+    <string name="fb_login_protocol_scheme">fb194812863442476</string>
+    <string name="facebook_client_token">9ef56dcc47152a534e2990d494d09d50</string>
+</resources>
+

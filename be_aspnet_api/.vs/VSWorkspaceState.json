@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MrSoaiAPI",
+    "\\MrSoaiAPI\\Areas",
+    "\\MrSoaiAPI\\Areas\\Admin",
+    "\\MrSoaiAPI\\Areas\\Admin\\Controllers",
+    "\\MrSoaiAPI\\Hubs"
+  ],
+  "SelectedNode": "\\MrSoaiAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

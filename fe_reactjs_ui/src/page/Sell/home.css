@@ -1,0 +1,36 @@
+.product-page-container {
+    max-height: 100%;
+    overflow-y: scroll;
+  }
+  
+  .product-grid-container {
+    width: 98%;
+    /* max-width: 1200px; */
+    margin: 10px 0 10px  10px;  
+  }
+  .product-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .product-card-image {
+    height: 100px;
+    object-fit: contain;
+  }
+  .product-card-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .add-button {
+    position: absolute;
+    background-color: #ffea00;;
+    color: #fff;
+    border: none;
+    font-size: 2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,625 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\category_images\\anvat.png",
+      "PackagePath": "staticwebassets\\images\\category_images\\anvat.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\category_images\\banhtrang.png",
+      "PackagePath": "staticwebassets\\images\\category_images\\banhtrang.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\category_images\\dacbiet.png",
+      "PackagePath": "staticwebassets\\images\\category_images\\dacbiet.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\category_images\\hongtra.png",
+      "PackagePath": "staticwebassets\\images\\category_images\\hongtra.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\category_images\\micay.png",
+      "PackagePath": "staticwebassets\\images\\category_images\\micay.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\category_images\\nuocngot.png",
+      "PackagePath": "staticwebassets\\images\\category_images\\nuocngot.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\category_images\\soday.png",
+      "PackagePath": "staticwebassets\\images\\category_images\\soday.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\category_images\\suachua.png",
+      "PackagePath": "staticwebassets\\images\\category_images\\suachua.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\category_images\\suatuoi.png",
+      "PackagePath": "staticwebassets\\images\\category_images\\suatuoi.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\category_images\\trasua.png",
+      "PackagePath": "staticwebassets\\images\\category_images\\trasua.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\category_images\\tratraicay.png",
+      "PackagePath": "staticwebassets\\images\\category_images\\tratraicay.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\coupons\\50886f9e-c805-4c1a-8da2-57cb0c9ce895.png",
+      "PackagePath": "staticwebassets\\images\\coupons\\50886f9e-c805-4c1a-8da2-57cb0c9ce895.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\coupons\\61571a3c-fae3-4c62-ad97-2ad8f96217a7.jpg",
+      "PackagePath": "staticwebassets\\images\\coupons\\61571a3c-fae3-4c62-ad97-2ad8f96217a7.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\coupons\\8b77542a-ea33-43c4-8c8d-9fa68147dc1b.png",
+      "PackagePath": "staticwebassets\\images\\coupons\\8b77542a-ea33-43c4-8c8d-9fa68147dc1b.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\coupons\\a5ce4aed-1d4b-46a9-9c87-f41ed61d922f.jpg",
+      "PackagePath": "staticwebassets\\images\\coupons\\a5ce4aed-1d4b-46a9-9c87-f41ed61d922f.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\coupons\\a6836d7c-227e-4c19-bb6c-54ca3e06570a.png",
+      "PackagePath": "staticwebassets\\images\\coupons\\a6836d7c-227e-4c19-bb6c-54ca3e06570a.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\coupons\\coupon1.jpg",
+      "PackagePath": "staticwebassets\\images\\coupons\\coupon1.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\coupons\\coupon2.jpg",
+      "PackagePath": "staticwebassets\\images\\coupons\\coupon2.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\coupons\\coupon3.jpg",
+      "PackagePath": "staticwebassets\\images\\coupons\\coupon3.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\coupons\\e05cd330-3ca1-41af-b349-3e5117656c1b.png",
+      "PackagePath": "staticwebassets\\images\\coupons\\e05cd330-3ca1-41af-b349-3e5117656c1b.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\coupons\\f5ec4e54-fa73-498d-831d-dda8855739b8.png",
+      "PackagePath": "staticwebassets\\images\\coupons\\f5ec4e54-fa73-498d-831d-dda8855739b8.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\customers\\UserMrsoai.png",
+      "PackagePath": "staticwebassets\\images\\customers\\UserMrsoai.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\news\\249e1b4d-1eb1-4255-8319-942c14898fbe.png",
+      "PackagePath": "staticwebassets\\images\\news\\249e1b4d-1eb1-4255-8319-942c14898fbe.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\news\\2b076f6d-f42a-4c9c-bd78-c5e59abda639.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\2b076f6d-f42a-4c9c-bd78-c5e59abda639.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\news\\89eadcfe-0459-48f7-aeb7-929b56e45261.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\89eadcfe-0459-48f7-aeb7-929b56e45261.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\news\\ac0f21e3-e42c-457d-8606-f3af22c0dc73.png",
+      "PackagePath": "staticwebassets\\images\\news\\ac0f21e3-e42c-457d-8606-f3af22c0dc73.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\news\\news1.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news1.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\news\\news2.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news2.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\news\\news3.jpg",
+      "PackagePath": "staticwebassets\\images\\news\\news3.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\621a6d7b-004a-4608-8918-84111d49c4c9.png",
+      "PackagePath": "staticwebassets\\images\\products\\621a6d7b-004a-4608-8918-84111d49c4c9.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\6302d565-e539-49ea-ace3-7afac0fe0cee.png",
+      "PackagePath": "staticwebassets\\images\\products\\6302d565-e539-49ea-ace3-7afac0fe0cee.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\bachtuoc.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bachtuoc.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\bayup.png",
+      "PackagePath": "staticwebassets\\images\\products\\bayup.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\bo.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bo.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\bohucthai.png",
+      "PackagePath": "staticwebassets\\images\\products\\bohucthai.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\bovien.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bovien.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\btphomai.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\btphomai.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\btsottrungcut.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\btsottrungcut.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\bttron.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bttron.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\btxike.png",
+      "PackagePath": "staticwebassets\\images\\products\\btxike.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\cavien.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\cavien.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\chacomxanh.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\chacomxanh.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\changarutxuong.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\changarutxuong.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\cocacola.png",
+      "PackagePath": "staticwebassets\\images\\products\\cocacola.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\coclac.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\coclac.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\comchaychabuong.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\comchaychabuong.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\comchaykhoga.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\comchaykhoga.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\daheochaytoi.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\daheochaytoi.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\goidaheogion.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\goidaheogion.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\goixoai.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\goixoai.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\htchanhday.png",
+      "PackagePath": "staticwebassets\\images\\products\\htchanhday.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\htdao.png",
+      "PackagePath": "staticwebassets\\images\\products\\htdao.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\htdau.png",
+      "PackagePath": "staticwebassets\\images\\products\\htdau.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\htkiwi.png",
+      "PackagePath": "staticwebassets\\images\\products\\htkiwi.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\htnhoden.png",
+      "PackagePath": "staticwebassets\\images\\products\\htnhoden.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\htphucbontu.png",
+      "PackagePath": "staticwebassets\\images\\products\\htphucbontu.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\htvietquat.png",
+      "PackagePath": "staticwebassets\\images\\products\\htvietquat.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\huongduong.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\huongduong.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\huongduongdua.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\huongduongdua.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\kcbachtuoc.png",
+      "PackagePath": "staticwebassets\\images\\products\\kcbachtuoc.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\kcbo.png",
+      "PackagePath": "staticwebassets\\images\\products\\kcbo.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\kchaisan.png",
+      "PackagePath": "staticwebassets\\images\\products\\kchaisan.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\kctom.png",
+      "PackagePath": "staticwebassets\\images\\products\\kctom.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\kemchesse.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kemchesse.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\kemtrung.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kemtrung.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\keo.png",
+      "PackagePath": "staticwebassets\\images\\products\\keo.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\khoaitaychien.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\khoaitaychien.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\khoaitaylacphomai.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\khoaitaylacphomai.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\kimchi.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\kimchi.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\mi.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\mi.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\midacbiet.png",
+      "PackagePath": "staticwebassets\\images\\products\\midacbiet.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\mucchienxu.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\mucchienxu.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\nam.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\nuocsuoi.png",
+      "PackagePath": "staticwebassets\\images\\products\\nuocsuoi.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\pepsi.png",
+      "PackagePath": "staticwebassets\\images\\products\\pepsi.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\phomaique.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\phomaique.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\pudding.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\pudding.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\rau.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\rau.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\scchanhday.png",
+      "PackagePath": "staticwebassets\\images\\products\\scchanhday.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\scdao.png",
+      "PackagePath": "staticwebassets\\images\\products\\scdao.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\scdau.png",
+      "PackagePath": "staticwebassets\\images\\products\\scdau.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sckiwi.png",
+      "PackagePath": "staticwebassets\\images\\products\\sckiwi.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\scnhoden.png",
+      "PackagePath": "staticwebassets\\images\\products\\scnhoden.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\scphucbontu.png",
+      "PackagePath": "staticwebassets\\images\\products\\scphucbontu.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sctraicay.png",
+      "PackagePath": "staticwebassets\\images\\products\\sctraicay.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\scvietquat.png",
+      "PackagePath": "staticwebassets\\images\\products\\scvietquat.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\scxoai.png",
+      "PackagePath": "staticwebassets\\images\\products\\scxoai.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sdbacha.png",
+      "PackagePath": "staticwebassets\\images\\products\\sdbacha.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sdbachatrang.png",
+      "PackagePath": "staticwebassets\\images\\products\\sdbachatrang.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sdbatangmay.png",
+      "PackagePath": "staticwebassets\\images\\products\\sdbatangmay.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sdblue.png",
+      "PackagePath": "staticwebassets\\images\\products\\sdblue.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sdchanhday.png",
+      "PackagePath": "staticwebassets\\images\\products\\sdchanhday.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sddao.png",
+      "PackagePath": "staticwebassets\\images\\products\\sddao.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sddau.png",
+      "PackagePath": "staticwebassets\\images\\products\\sddau.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sddualuoi.png",
+      "PackagePath": "staticwebassets\\images\\products\\sddualuoi.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sdkiwi - Copy.png",
+      "PackagePath": "staticwebassets\\images\\products\\sdkiwi - Copy.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sdkiwi.png",
+      "PackagePath": "staticwebassets\\images\\products\\sdkiwi.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sdnho.png",
+      "PackagePath": "staticwebassets\\images\\products\\sdnho.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sdphucbontu.png",
+      "PackagePath": "staticwebassets\\images\\products\\sdphucbontu.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sdtao.png",
+      "PackagePath": "staticwebassets\\images\\products\\sdtao.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sdvietquat.png",
+      "PackagePath": "staticwebassets\\images\\products\\sdvietquat.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\stbacha.png",
+      "PackagePath": "staticwebassets\\images\\products\\stbacha.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\stmatch.png",
+      "PackagePath": "staticwebassets\\images\\products\\stmatch.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\sttranchauduongden.png",
+      "PackagePath": "staticwebassets\\images\\products\\sttranchauduongden.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tatiso.png",
+      "PackagePath": "staticwebassets\\images\\products\\tatiso.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tchanh.png",
+      "PackagePath": "staticwebassets\\images\\products\\tchanh.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tdao.png",
+      "PackagePath": "staticwebassets\\images\\products\\tdao.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tdaocamsa.png",
+      "PackagePath": "staticwebassets\\images\\products\\tdaocamsa.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tdaudalat.png",
+      "PackagePath": "staticwebassets\\images\\products\\tdaudalat.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tdualuoi.png",
+      "PackagePath": "staticwebassets\\images\\products\\tdualuoi.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\thachphomai.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\thachphomai.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\thanhthuytinh.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\thanhthuytinh.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\thapcamchien.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\thapcamchien.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\thoadaubiec.png",
+      "PackagePath": "staticwebassets\\images\\products\\thoadaubiec.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tlaithom.png",
+      "PackagePath": "staticwebassets\\images\\products\\tlaithom.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tnhoden.png",
+      "PackagePath": "staticwebassets\\images\\products\\tnhoden.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\toihong.png",
+      "PackagePath": "staticwebassets\\images\\products\\toihong.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tom.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\tom.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tranchau.png",
+      "PackagePath": "staticwebassets\\images\\products\\tranchau.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tranchau3q.png",
+      "PackagePath": "staticwebassets\\images\\products\\tranchau3q.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\trungcutchien.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\trungcutchien.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tsbacha.png",
+      "PackagePath": "staticwebassets\\images\\products\\tsbacha.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tschanhday.png",
+      "PackagePath": "staticwebassets\\images\\products\\tschanhday.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tschocolate.png",
+      "PackagePath": "staticwebassets\\images\\products\\tschocolate.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tsdao.png",
+      "PackagePath": "staticwebassets\\images\\products\\tsdao.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tsdau.png",
+      "PackagePath": "staticwebassets\\images\\products\\tsdau.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tskhoaimon.png",
+      "PackagePath": "staticwebassets\\images\\products\\tskhoaimon.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tskiwi.png",
+      "PackagePath": "staticwebassets\\images\\products\\tskiwi.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tsmatcha.png",
+      "PackagePath": "staticwebassets\\images\\products\\tsmatcha.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tsnhoden.png",
+      "PackagePath": "staticwebassets\\images\\products\\tsnhoden.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tsoloong.png",
+      "PackagePath": "staticwebassets\\images\\products\\tsoloong.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tsphucbontu.png",
+      "PackagePath": "staticwebassets\\images\\products\\tsphucbontu.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tstranchauduongden.png",
+      "PackagePath": "staticwebassets\\images\\products\\tstranchauduongden.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tstruyenthong.png",
+      "PackagePath": "staticwebassets\\images\\products\\tstruyenthong.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tsvai.png",
+      "PackagePath": "staticwebassets\\images\\products\\tsvai.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tsvietquat.png",
+      "PackagePath": "staticwebassets\\images\\products\\tsvietquat.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tsxoai.png",
+      "PackagePath": "staticwebassets\\images\\products\\tsxoai.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\ttao.png",
+      "PackagePath": "staticwebassets\\images\\products\\ttao.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\ttraicaynhietdoi.png",
+      "PackagePath": "staticwebassets\\images\\products\\ttraicaynhietdoi.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\tvai.png",
+      "PackagePath": "staticwebassets\\images\\products\\tvai.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\txoai.png",
+      "PackagePath": "staticwebassets\\images\\products\\txoai.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\xoailac.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\xoailac.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\xucxich.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\xucxich.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\products\\xucxich.png",
+      "PackagePath": "staticwebassets\\images\\products\\xucxich.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\sliders\\2e7339a6-5147-4e8e-839c-ba3d5089c27a.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\2e7339a6-5147-4e8e-839c-ba3d5089c27a.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\sliders\\887a7971-8099-4058-9f51-d438e88a6658.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\887a7971-8099-4058-9f51-d438e88a6658.png"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\sliders\\slider1.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\slider1.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\sliders\\slider2.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\slider2.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\sliders\\slider3.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\slider3.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\sliders\\slider4.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\slider4.jpg"
+    },
+    {
+      "Id": "D:\\DA_TN\\Ecommerce_MrSoai_App\\be_aspnet_api\\MrSoaiAPI\\wwwroot\\images\\sliders\\slider5.jpg",
+      "PackagePath": "staticwebassets\\images\\sliders\\slider5.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MrSoaiAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MrSoaiAPI.props",
+      "PackagePath": "build\\MrSoaiAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MrSoaiAPI.props",
+      "PackagePath": "buildMultiTargeting\\MrSoaiAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MrSoaiAPI.props",
+      "PackagePath": "buildTransitive\\MrSoaiAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
